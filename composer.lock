@@ -2170,7 +2170,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": "^7.1"
+                "php": "^7.0"
             },
             "require-dev": {
                 "athletic/athletic": "~0.1.8",
