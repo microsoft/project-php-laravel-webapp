@@ -5,7 +5,7 @@
 
 # PHP Laravel application
 
-Sample PHP Laravel application that you can use to deploy on Azure.
+Sample PHP [Laravel](https://laravel.com/) application that you can use to deploy on [Azure](https://azure.microsoft.com/).
 
 
 ## License:
